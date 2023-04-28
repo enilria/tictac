@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{B1C2BBF6-8817-4692-B261-D9A242EA3F21}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/GameController.cs">
+    <Files>
+      <File FileName="wwwroot/js/Game.js" />
+      <File FileName="Program.cs" Line="22" Column="1" />
+      <File FileName="Views/Game/Index.cshtml" />
+      <File FileName="Controllers/GameController.cs" Line="27" Column="54" />
+      <File FileName="wwwroot/css/site.css" />
+      <File FileName="wwwroot/js/site.js" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TicTacToe" expanded="True">
+            <Node name="TicTacToe" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="GameController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Game" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="images" expanded="True" />
+                <Node name="js" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TicTacToe PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
